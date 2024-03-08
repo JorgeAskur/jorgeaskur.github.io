@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Jorge Askur Vazquez Fernandez"
 title_separator          : "-"
 description              : &description "Robotics and Digital Systems Engineering Student"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jorgeaskur.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
