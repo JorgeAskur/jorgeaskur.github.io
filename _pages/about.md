@@ -26,3 +26,10 @@ As a researcher, I am an enthusiast for new technologies and learning. I have ex
 | [Infotainment System with Raspberry Pi and STM32F103C8T6](https://github.com/JorgeAskur/RPi-Infotainment-System)  | This project was developed for the System on a chip Design class in collaboration with Intel at Tecnológico de Monterrey and it should resemble an infotainment system present in a car.   |
 |-------------------|
 | [Position Estimation of recognized objects using YOLOv7](https://github.com/JorgeAskur/PinholeCamera)  | In this project we explain the development, implementation, and integration of a Position Estimation system of recognized objects using YOLOv7.   |
+
+# Publications
+----------
+
+| Title | Authors | Venue | Year |
+|:--------|:-------:|:-------:|:-------:|
+| [Hands-Free VR](https://arxiv.org/abs/2402.15083) | Jorge Vazquez, Jae Joong Lee, Santiago Serrano, Alejandra Magaña, Radim Pesa, Bedrich Benes, Voicu Popescu | International Conference on Human Computer Interaction Theory and Applications | 2025
