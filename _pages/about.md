@@ -33,3 +33,4 @@ As a researcher, I am an enthusiast for new technologies and learning. I have ex
 | Title | Authors | Venue | Year |
 |:--------|:-------:|:-------:|:-------:|
 | [Hands-Free VR](https://arxiv.org/abs/2402.15083) | Jorge Vazquez, Jae Joong Lee, Santiago Serrano, Alejandra Magaña, Radim Pesa, Bedrich Benes, Voicu Popescu | International Conference on Human Computer Interaction Theory and Applications | 2025
+| [Complex Virtual Environments on All-In-One VR Headsets Through Continuous From-Segment Visibility Computation](https://www.cs.purdue.edu/xrlab/assets/pdf/cr_ready_1D_Visibility_VR_2025.pdf) | Voicu Popescu, Elisha Sacks, Zirui Zhang, Jorge Vazquez | IEEE VR | 2025
