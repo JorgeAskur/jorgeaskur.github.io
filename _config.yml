@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jorge Askur Vazquez Fernandez"
+title                    : "Jorge Vazquez"
 title_separator          : "-"
-description              : &description "CS PhD Student"
+description              : &description "Computer Science PhD Student at Purdue University"
 url                      : https://jorgeaskur.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,7 +23,7 @@ author:
   avatar           : "Photo Jorge Askur.jpg"
   name             : "Jorge Askur Vazquez Fernandez"
   pronouns         : "he/him"  
-  bio              : "CS PhD student at the CGVLab in Purdue"
+  bio              : "CS PhD student working across graphics, VR, robotics, and perception"
   location         : "West Lafayette, Indiana"
   employer         : "Purdue University"
   uri              : "https://drive.google.com/file/d/17ZwP3TaHqPG4wuo5RfKhVXvQ7vdVhnT9/view?usp=sharing"
