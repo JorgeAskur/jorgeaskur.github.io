@@ -109,6 +109,12 @@ redirect_from:
   </div>
   <div class="publication-list">
     <article>
+      <span>2026</span>
+      <h3><a>VR BioTalk - Hands-Free Visual Analytics of Phenotyping Data Using Natural Conversation</a></h3>
+      <p>Jorge Vazquez, Shuwen Yang, Yiqun Zhang, Jeffrey Demieville, Brennan Huppenthal, Nirav Merchant, Voicu Popescu, Alejandra Magana, Duke Pauli, Bedrich Benes.</p>
+      <p>IEEE Access.</p>
+    </article>
+    <article>
       <span>2025</span>
       <h3><a href="https://arxiv.org/abs/2402.15083">Hands-Free VR</a></h3>
       <p>Jorge Vazquez, Jae Joong Lee, Santiago Serrano, Alejandra Magana, Radim Pesa, Bedrich Benes, Voicu Popescu.</p>
