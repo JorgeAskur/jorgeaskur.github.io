@@ -110,7 +110,7 @@ redirect_from:
   <div class="publication-list">
     <article>
       <span>2026</span>
-      <h3><a>VR BioTalk - Hands-Free Visual Analytics of Phenotyping Data Using Natural Conversation</a></h3>
+      <h3><a href="https://ieeexplore.ieee.org/document/11515097">VR BioTalk - Hands-Free Visual Analytics of Phenotyping Data Using Natural Conversation</a></h3>
       <p>Jorge Vazquez, Shuwen Yang, Yiqun Zhang, Jeffrey Demieville, Brennan Huppenthal, Nirav Merchant, Voicu Popescu, Alejandra Magana, Duke Pauli, Bedrich Benes.</p>
       <p>IEEE Access.</p>
     </article>
